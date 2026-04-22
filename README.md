@@ -20,6 +20,14 @@ Control volumes, routing, and virtual sinks from any device on your local networ
 
 ---
 
+## Disclaimer
+This tool was completely vibe coded with Claude Code within 48 hours.
+I needed a working Voicemeeter-Replacement, as I switched from Windows to Ubuntu.
+As long as my Claude Code subscription is running, I'll try to let it update and fix anything that shows up.
+If something doesn't work, I am more than happy to accept any pull requests.
+
+---
+
 ## Prerequisites
 
 ### Audio system
