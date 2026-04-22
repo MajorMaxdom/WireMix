@@ -3,6 +3,7 @@
 A browser-based audio mixer for **PipeWire / PulseAudio** on Linux.  
 Control volumes, routing, and virtual sinks from any device on your local network — desktop, tablet, or phone.
 
+![WireMix](https://raw.githubusercontent.com/MajorMaxdom/WireMix/refs/heads/main/wiremix.png)
 ---
 
 ## Features
